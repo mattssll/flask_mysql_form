@@ -11,4 +11,16 @@ After that the app can be deployed to heroku, in a simple way.
 <br><br>
 
 ### Deploying to Heroku
-To create the deployment to heroku you'll have to do some things: <br>
+To create the deployment to heroku you'll have to do some things - use this tutorial if you will: <a src="https://www.youtube.com/watch?v=JBGC9Dp9cXI">Video tutorial<a> <br>
+<ul>
+  <li>Create an account in Heroku</li>
+  <li>Install Python in your machine and create a virtual environment</li>
+  <li>Initiate a Git Repository inside your app folder (Heroku asks for it)</li>
+  <li>Create the Procfile and configure it (already included in the files here)</li>
+  <li>Install the needed dependencies of your project in your virtual environment</li>
+  <li>Use the command "pip freeze > requirements.txt" to generate the requirements (already included here)</li>
+  <li>Using the terminal, login to heroku "heroku login"</li>
+  <li>Create your heroku app with "heroku create appname"</li>
+  <li>"git add .", git commit -m "commit message" and to start deploying your app:</li>
+  <li>git push heroku master</li>
+  
