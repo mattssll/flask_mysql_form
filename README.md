@@ -7,11 +7,11 @@ After that the app can be deployed to heroku, in a simple way.
 
 
 ### Flask and MySQL Crud-Form App
-<br> The tutorial to build the form app running locally with flask and mysql can be found: <a src='https://www.youtube.com/watch?v=IgCfZkR8wME'>here<a>. Credits goes to <b>Fazt Code Channel on youtube</b>
+<br> The tutorial to build the form app running locally with flask and mysql can be found: [Here](https://www.youtube.com/watch?v=IgCfZkR8wME). Credits goes to <b>Fazt Code Channel on youtube</b>
 <br><br>
 
 ### Deploying to Heroku
-To create the deployment to heroku you'll have to do some things - use this tutorial if you will: <a src="https://www.youtube.com/watch?v=JBGC9Dp9cXI">Video tutorial<a> <br>
+To create the deployment to heroku you'll have to do some things - use this tutorial if you will: [Here](https://www.youtube.com/watch?v=JBGC9Dp9cXI) <br>
 <ul>
   <li>Create an account in Heroku</li>
   <li>Install Python in your machine and create a virtual environment</li>
