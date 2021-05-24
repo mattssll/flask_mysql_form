@@ -1,4 +1,4 @@
-# Flask and MySQL Form
+# Flask and MySQL Form - Restful API (CRUD) with sql queries
 ### Check the App here: https://crudformapp.herokuapp.com/
 At this repo we'll build a web app using flask (python) and mysql as our backend, we'll also use bootstrap to give some style to the front-end and javascript for a couple of tricks. <br>
 After that the app can be deployed to heroku, in a simple way.
